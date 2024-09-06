@@ -20,8 +20,8 @@ Suivez ces étapes pour configurer et exécuter l'application localement.
 1. Clonez le dépôt sur votre machine locale :
 
    ```bash
-   git clone <URL_DU_DEPOT>
-   cd <NOM_DU_DEPOT>
+   git clone https://github.com/mariem2012/express-gestion-projet.git
+   cd express-gestion-projet
    ```
 
 2. Installez les dépendances nécessaires en utilisant npm :
